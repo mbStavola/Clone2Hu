@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9afb409f-202b-4403-8ec9-f8d40baf973d" name="Default" comment="Everything should be configured properly now">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="9afb409f-202b-4403-8ec9-f8d40baf973d" name="Default" comment="Too late Kevin you asked for this">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Clone2Hu.iws" afterPath="$PROJECT_DIR$/Clone2Hu.iws" />
     </list>
     <ignored path="Clone2Hu.iws" />
@@ -797,17 +796,21 @@
       <created>1400994513113</created>
       <updated>1400994513113</updated>
       <workItem from="1400994513752" duration="456000" />
-      <workItem from="1400995251392" duration="865000" />
+      <workItem from="1400995251392" duration="1484000" />
     </task>
     <task id="LOCAL-00001" summary="Everything should be configured properly now">
       <created>1400995811700</created>
       <updated>1400995811700</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Too late Kevin you asked for this">
+      <created>1400996258109</created>
+      <updated>1400996258109</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1321000" />
+    <option name="totallyTimeSpent" value="1940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1366" height="740" extended-state="0" />
@@ -858,7 +861,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Everything should be configured properly now" />
-    <option name="LAST_COMMIT_MESSAGE" value="Everything should be configured properly now" />
+    <MESSAGE value="Too late Kevin you asked for this" />
+    <option name="LAST_COMMIT_MESSAGE" value="Too late Kevin you asked for this" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
